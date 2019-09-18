@@ -1,14 +1,14 @@
 # banking-services
 
 Definition of done:
-- User can can all tiles 
+- User can see all tiles 
 - User can see image and title of each tiles
 - User can navigate to detail page with enable tiles
 - User can not navigate to detail page with disable tiles
 
 Extra point
 - User can see tiles alpha to 0.5 when disable
-- User can see corner raduis tiles
+- User can see corner radius tiles
 - User can perform deeplink in detail page
 
 <table border="0">
