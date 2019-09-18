@@ -2,14 +2,14 @@
 
 Definition of done:
 - User can see all tiles 
-- User can see image and title of each tiles
-- User can navigate to detail page with enable tiles
-- User can not navigate to detail page with disable tiles
+- User can see image and title of each tile
+- User can navigate to detail page from enabled tiles
+- User cannot navigate to detail page from disable tiles
 
-Extra point
-- User can see tiles alpha to 0.5 when disable
-- User can see corner radius tiles
-- User can perform deeplink in detail page
+Extra points
+- Disabled tile should have alpha = 0.5
+- Tile corner radius = 10.0
+- User can perform deeplink from detail page
 
 <table border="0">
   <td>
